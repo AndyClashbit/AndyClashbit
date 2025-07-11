@@ -42,38 +42,32 @@
 
 ## 🏆 Достижения
 
-- 🚀 Создал несколько open-source проектов
-- 🏅 Участвовал в хакатонах и конкурсах
-- 🌟 Помогаю сообществу и делюсь знаниями
+- Пока что нет
 
 ---
 
 ## 🌐 Социальные сети
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndyClashbit)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:твой@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AndyClashbit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brook84@gmail.com)
 
 ---
 
 ## 💻 Любимые технологии
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 ---
 
 ## 🚀 Мои проекты
 
-- [Sortir](https://github.com/AndyClashbit/Sortir) — описание проекта
+- [Sortir](https://github.com/AndyClashbit/Sortir) — программа для сортировки файлов 
 - [RPG-2.0](https://github.com/AndyClashbit/RPG-2.0) — браузерная RPG-игра
-- [rpg-labyrinth](https://github.com/AndyClashbit/rpg-labyrinth) — генератор лабиринтов
 
 ---
 
@@ -81,6 +75,6 @@
 
 - Люблю создавать игры и экспериментировать с новыми технологиями
 - Увлекаюсь дизайном, анимацией и визуализацией данных
-- Открыт к интересным проектам и коллаборациям
+- любитель 
 
 ---
