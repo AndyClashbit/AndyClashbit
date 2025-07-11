@@ -70,3 +70,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyClashbit&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
+_Оформлено с помощью [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) и [shields.io](https://shields.io/)_ 
+
