@@ -62,15 +62,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
-
-## 📈 GitHub streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyClashbit&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-_Оформлено с помощью [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) и [shields.io](https://shields.io/)_ 
-
