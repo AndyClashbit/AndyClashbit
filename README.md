@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/AndyClashbit/RPG-2.0">
-    <img src="https://github.com/AndyClashbit/rpg-labyrinth/blob/main/aboutMD/gif.gif" alt="Demo GIF" width="600"/>
+    <img src="https://github.com/AndyClashbit/rpg-labyrinth/blob/main/aboutMD/gif.gif" alt="Demo GIF" width="300"/>
   </a>
 </p>
 
