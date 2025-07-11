@@ -27,20 +27,24 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndyClashbit&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyClashbit&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyClashbit&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndyClashbit&theme=radical&margin-w=10&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=2077" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=2077" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=2077" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=2077&utcOffset=3" alt="Productive Time"/>
 </p>
 
 ---
 
 ## 🏆 Достижения
 
-- Пока нет 
-
+- 🚀 Создал несколько open-source проектов
+- 🏅 Участвовал в хакатонах и конкурсах
+- 🌟 Помогаю сообществу и делюсь знаниями
 
 ---
 
@@ -62,3 +66,21 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Мои проекты
+
+- [Sortir](https://github.com/AndyClashbit/Sortir) — описание проекта
+- [RPG-2.0](https://github.com/AndyClashbit/RPG-2.0) — браузерная RPG-игра
+- [rpg-labyrinth](https://github.com/AndyClashbit/rpg-labyrinth) — генератор лабиринтов
+
+---
+
+## 🎮 Немного обо мне
+
+- Люблю создавать игры и экспериментировать с новыми технологиями
+- Увлекаюсь дизайном, анимацией и визуализацией данных
+- Открыт к интересным проектам и коллаборациям
+
+---
