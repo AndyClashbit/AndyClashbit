@@ -39,16 +39,8 @@
 
 ## 🏆 Достижения
 
-- 🥇 Победитель хакатона XYZ
-- 🏅 Лучший проект месяца на GitHub
-- 🚀 Успешно завершённые open-source проекты
+- Пока нет 
 
----
-
-## 🎓 Сертификаты
-
-- [Frontend Developer](https://www.coursera.org/) (Coursera)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/)
 
 ---
 
@@ -71,13 +63,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-## 🚀 Мои проекты
-
-- [Sortir](https://github.com/AndyClashbit/Sortir) — описание проекта
-
----
 
 ## 📈 GitHub streak
 
@@ -85,6 +70,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyClashbit&theme=radical" alt="GitHub Streak" />
 </p>
 
----
-
-_Оформлено с помощью [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) и [shields.io](https://shields.io/)_ 
