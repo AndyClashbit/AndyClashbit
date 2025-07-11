@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AndyClashbit/AndyClashbit">
-    <img src="https://github.com/AndyClashbit/rpg-labyrinth/blob/main/aboutMD/gif.gif" alt="Demo GIF" width="400"/>
+    <img src="https://github.com/AndyClashbit/AndyClashbit/blob/main/gif.gif" alt="Demo GIF" width="400"/>
   </a>
 </p>
 
