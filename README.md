@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="gif.gif" alt="Andy Clashbit" width="200"/>
-  <br/>
-  <b></b>
-</p>
-<p align="center">
   <a href="https://github.com/AndyClashbit/RPG-2.0">
-    <img src="https://github.com/AndyClashbit/rpg-labyrinth/blob/main/aboutMD/gif.gif" alt="Demo GIF" width="200"/>
+    <img src="https://github.com/AndyClashbit/rpg-labyrinth/blob/main/aboutMD/gif.gif" alt="Demo GIF" width="400"/>
   </a>
 </p>
 
