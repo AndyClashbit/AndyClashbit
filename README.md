@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif.gif" alt="Andy Clashbit" width="400"/>
+  <img src="gif.gif" alt="Andy Clashbit" width="200"/>
   <br/>
   <b></b>
 </p>
