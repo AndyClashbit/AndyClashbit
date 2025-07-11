@@ -1,7 +1,7 @@
 <p align="center">
   <img src="gif.gif" alt="Andy Clashbit" width="400"/>
   <br/>
-  <b>Andy Clashbit</b>
+  <b></b>
 </p>
 <p align="center">
   <a href="https://github.com/AndyClashbit/RPG-2.0">
