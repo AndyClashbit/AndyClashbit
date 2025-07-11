@@ -52,7 +52,7 @@
 ## 🚀 Мои проекты
 
 - [Sortir](https://github.com/AndyClashbit/Sortir) — программа для сортировки файлов 
-- [RPG-2.0](https://github.com/AndyClashbit/RPG-2.0) — браузерная RPG-игра
+
 
 ---
 
