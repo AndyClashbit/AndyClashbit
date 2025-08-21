@@ -48,7 +48,6 @@
 
 - [Sortir](https://andyclashbit.ru/) — программа для сортировки файлов
 - [PAGE-X](https://github.com/AndyClashbit/PAGE-X) — PAGE X - Ваша персональная стартовая страница
-- 
 
 
 ---
