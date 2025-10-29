@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=dracula)
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=dracula)" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=2077" alt="Repos per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
