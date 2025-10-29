@@ -21,7 +21,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=2077" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=2077&utcOffset=3" alt="Productive Time"/>
-  <img src="https://stats-cards.toil.cc/v1/activity/github?username=AndyClashbit&theme=catppuccin-macchiato&period=3_months&with_title=true" alt="Activity (GitHub)" />
+  <img src="https://stats-cards.toil.cc/v1/activity/github?username=AndyClashbit&theme=dracula&period=year&with_title=true" alt="Activity (GitHub)" />
 </p>
 
 ---
