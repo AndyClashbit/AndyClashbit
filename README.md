@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/AndyClashbit/AndyClashbit">
-    <img src="https://github.com/AndyClashbit/AndyClashbit/blob/main/gif.gif" alt="Demo GIF" width="400"/>
-  </a>
+<a href="https://github.com/AndyClashbit/AndyClashbit">
+<img src="https://github.com/AndyClashbit/AndyClashbit/blob/main/gif.gif" alt="Demo GIF" width="400"/>
+</a>
 </p>
 
 # Привет! 👋 Я Andy Clashbit
@@ -9,19 +9,19 @@
 - Добро пожаловать в мой профиль GitHub!  
 - Здесь ты найдёшь мои проекты, идеи и эксперименты.
 
-
-
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=github_dark&utcOffset=8)
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyClashbit&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
 
 <p align="center">
-  <img src="https://stats-cards.toil.cc/v1/activity/github?username=AndyClashbit&theme=catppuccin-macchiato&period=year&with_title=true" alt="Activity (GitHub)" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=2077" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=2077" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=2077" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=2077&utcOffset=3" alt="Productive Time"/>
+  ![Activity (GitHub)](https://stats-cards.toil.cc/v1/activity/github?username=AndyClashbit&theme=catppuccin-macchiato&period=3_months&with_title=true)
 </p>
 
 ---
