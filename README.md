@@ -8,13 +8,13 @@
 
 - Добро пожаловать в мой профиль GitHub!  
 - Здесь ты найдёшь мои проекты, идеи и эксперименты.
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=github_dark)
+
 
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyClashbit&theme=react-dark" alt="GitHub Activity Graph"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=github_dark)
 </p>
 
 <p align="center">
