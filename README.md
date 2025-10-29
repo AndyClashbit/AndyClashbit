@@ -12,13 +12,13 @@
 
 
 ---
-<p align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=github_dark&utcOffset=8)
-</p>
+
 
 <p align="center">
   <img src="https://stats-cards.toil.cc/v1/activity/github?username=AndyClashbit&theme=catppuccin-macchiato&period=year&with_title=true" alt="Activity (GitHub)" />
