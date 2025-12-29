@@ -47,12 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-
+<p align="center">
 # Привет! 👋 Я Andy Clashbit
 
 - Добро пожаловать в мой профиль GitHub!  
 - Здесь ты найдёшь мои проекты, идеи и эксперименты.
-
+</p>
 ---
 <p align="center">
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=AndyClashbit&theme=radical&no-frame=true&no-bg=true&margin-w=4">
