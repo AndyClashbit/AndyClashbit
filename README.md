@@ -10,6 +10,9 @@
 - Здесь ты найдёшь мои проекты, идеи и эксперименты.
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AndyClashbit&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyClashbit&theme=react-dark" alt="GitHub Activity Graph"/>
@@ -74,9 +77,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AndyClashbit&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
+
 ---
 
 ## 🏆 Достижения
