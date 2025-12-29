@@ -23,6 +23,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=2077&utcOffset=3" alt="Productive Time"/>
 </p>
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Activity Graph"/>
+</p>
 ---
 
 ## 🏆 Достижения
