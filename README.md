@@ -3,30 +3,6 @@
 <img src="https://github.com/AndyClashbit/AndyClashbit/blob/main/gif.gif" alt="Demo GIF" width="400"/>
 </a>
 </p>
-
-# Привет! 👋 Я Andy Clashbit
-
-- Добро пожаловать в мой профиль GitHub!  
-- Здесь ты найдёшь мои проекты, идеи и эксперименты.
-
----
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AndyClashbit&theme=radical&no-frame=true&no-bg=true&margin-w=4">
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=2077" alt="Profile Details"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=2077" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=2077" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=2077&utcOffset=3" alt="Productive Time"/>
-</p>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Activity Graph"/>
-</p>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
@@ -70,6 +46,31 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
+
+
+# Привет! 👋 Я Andy Clashbit
+
+- Добро пожаловать в мой профиль GitHub!  
+- Здесь ты найдёшь мои проекты, идеи и эксперименты.
+
+---
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AndyClashbit&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=2077" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=2077" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndyClashbit&theme=2077" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndyClashbit&theme=2077&utcOffset=3" alt="Productive Time"/>
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Flowseal/Flowseal/refs/heads/output/github-contribution-grid-snake-dark.svg" alt="GitHub Activity Graph"/>
+</p>
+
 
 
 
