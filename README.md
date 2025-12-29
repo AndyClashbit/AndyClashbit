@@ -15,10 +15,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyClashbit&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndyClashbit&theme=2077" alt="Profile Details"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndyClashbit&theme=2077" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndyClashbit&theme=2077" alt="Most Commit Language"/>
